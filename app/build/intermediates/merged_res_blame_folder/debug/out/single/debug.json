@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-merged_res-4:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-main-6:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-merged_res-4:\\layout_fragment_first.xml.flat",
+        "source": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-main-6:\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-merged_res-4:\\layout_activity_main.xml.flat",
+        "source": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-main-6:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-merged_res-4:\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-pngs-0:\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-merged_res-4:\\layout_content_maincalc.xml.flat",
+        "source": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-main-6:\\layout\\content_maincalc.xml"
+    },
+    {
+        "merged": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-merged_res-4:\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-pngs-0:\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-merged_res-4:\\xml_backup_rules.xml.flat",
+        "source": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-main-6:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "com.example.calculator.app-merged_res-4:/layout_activity_maincalc.xml.flat",
+        "source": "com.example.calculator.app-main-6:/layout/activity_maincalc.xml"
+    },
+    {
+        "merged": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-merged_res-4:\\drawable_pokc.jpg.flat",
+        "source": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-main-6:\\drawable\\pokc.jpg"
+    },
+    {
+        "merged": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-merged_res-4:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-main-6:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-merged_res-4:\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-pngs-0:\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-merged_res-4:\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-pngs-0:\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-merged_res-4:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-main-6:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-merged_res-4:\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-pngs-0:\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-merged_res-4:\\layout_activity_calc.xml.flat",
+        "source": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-main-6:\\layout\\activity_calc.xml"
+    },
+    {
+        "merged": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-merged_res-4:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-main-6:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-merged_res-4:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-main-6:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-merged_res-4:\\layout_activity_maincalc.xml.flat",
+        "source": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-main-6:\\layout\\activity_maincalc.xml"
+    },
+    {
+        "merged": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-merged_res-4:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-main-6:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-merged_res-4:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-pngs-0:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-merged_res-4:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-main-6:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-merged_res-4:\\drawable_calco.webp.flat",
+        "source": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-main-6:\\drawable\\calco.webp"
+    },
+    {
+        "merged": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-merged_res-4:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-main-6:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-merged_res-4:\\xml_data_extraction_rules.xml.flat",
+        "source": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-main-6:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-merged_res-4:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-main-6:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-merged_res-4:\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-pngs-0:\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-merged_res-4:\\navigation_nav_graph.xml.flat",
+        "source": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-main-6:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-merged_res-4:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-main-6:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-merged_res-4:\\layout_fragment_second.xml.flat",
+        "source": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-main-6:\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-merged_res-4:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-main-6:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-merged_res-4:\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-pngs-0:\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-merged_res-4:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-main-6:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    }
+]

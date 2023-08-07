@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-mergeDebugResources-3:\\layout\\activity_main.xml",
+        "source": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-main-6:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-mergeDebugResources-3:\\layout\\activity_maincalc.xml",
+        "source": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-main-6:\\layout\\activity_maincalc.xml"
+    },
+    {
+        "merged": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-mergeDebugResources-3:\\layout\\content_maincalc.xml",
+        "source": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-main-6:\\layout\\content_maincalc.xml"
+    },
+    {
+        "merged": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-mergeDebugResources-3:\\layout\\fragment_first.xml",
+        "source": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-main-6:\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-mergeDebugResources-3:\\layout\\fragment_second.xml",
+        "source": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-main-6:\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-mergeDebugResources-3:\\layout\\activity_calc.xml",
+        "source": "D:\\gradle-7.3.3-bin\\daemon\\8.0\\com.example.calculator.app-main-6:\\layout\\activity_calc.xml"
+    },
+    {
+        "merged": "com.example.calculator.app-mergeDebugResources-3:/layout/activity_maincalc.xml",
+        "source": "com.example.calculator.app-main-6:/layout/activity_maincalc.xml"
+    }
+]
